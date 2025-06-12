@@ -1,4 +1,4 @@
-namespace Ejercicio1
+namespace guia_12
 {
     internal static class Program
     {
